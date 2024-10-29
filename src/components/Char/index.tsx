@@ -2,13 +2,13 @@ import {ToastContainer, Zoom} from "react-toastify";
 import 'react-toastify/dist/ReactToastify.css';
 
 export const sprites = {
-  welcome1: "./char/welcome1-char.png",
-  welcome2: "./char/welcome2-char.png",
-  welcome3: "./char/welcome3-char.png",
-  happy1: "./char/happy1-char.png",
-  happy2: "./char/happy2-char.png",
-  happy3: "./char/happy3-char.png",
-  wait: "./char/wait-char.png",
+  welcome1: "./assets/char/welcome1-char.png",
+  welcome2: "./assets/char/welcome2-char.png",
+  welcome3: "./assets/char/welcome3-char.png",
+  happy1: "./assets/char/happy1-char.png",
+  happy2: "./assets/char/happy2-char.png",
+  happy3: "./assets/char/happy3-char.png",
+  wait: "./assets/char/wait-char.png",
 }
 
 interface Props {
